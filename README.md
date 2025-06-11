@@ -1,2 +1,9 @@
 # BaekJoon
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+<p>https://solved.ac/profile/ryoo0930 </p>
+<br>
+<img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryoo0930"
+      height="200"
+      alt="ryoo0930's Baekjoon Tier"
+  />
+
