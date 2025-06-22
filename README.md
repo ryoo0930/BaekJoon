@@ -1,4 +1,4 @@
-# BaekJoon
+# BaekJoon ( 6/21 ~ )
 <p>https://solved.ac/profile/ryoo0930 </p>
 <br>
 <img
